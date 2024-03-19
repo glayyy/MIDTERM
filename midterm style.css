@@ -1,0 +1,50 @@
+#midterm {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+audio {
+    background-color: burlywood;
+    padding-left:30px;
+    padding-right:30px;
+    margin-bottom: 0%;
+}
+
+containerA {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+table, th, tr, td {
+    background-color: pink;
+    border: solid 3px white;
+    border-collapse: collapse;
+    width: 360px;
+}
+
+td {
+    width: 30px;
+    height: 20px;
+}
+
+bricks {
+   border: 0;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+form {
+    width: 300px;
+    border: solid 15px black;
+    
+}
+
+formContainer {
+    width: 360px;
+}
